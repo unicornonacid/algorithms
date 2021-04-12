@@ -1,1 +1,0 @@
-/usr/bin/c++ -g CMakeFiles/algorithms.dir/main.cpp.o -o algorithms 

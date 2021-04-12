@@ -1,3 +1,0 @@
-/home/mmatusiak/CLionProjects/algorithms/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/mmatusiak/CLionProjects/algorithms/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/mmatusiak/CLionProjects/algorithms/cmake-build-debug/CMakeFiles/algorithms.dir
